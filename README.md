@@ -42,7 +42,7 @@ Expense Manager API is a RESTful API for managing user expenses. This project us
 4. **Install Required Dependencies**
 
     ```bash
-    pip install django djangorestframework
+    pip install django djangorestframework  or pip install req.txt
     ```
 
 5. **Apply Migrations to Set Up the Database**
